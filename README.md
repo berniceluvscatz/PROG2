@@ -1,2 +1,2 @@
-# PROG2
-dds
+# Semesterarbeit PROG2
+Projektidee
